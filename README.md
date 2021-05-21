@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="images/cover.png" height="300px" width="1000px">
+<img src="images/cover.png" height="280px" width="1000px">
 
 ### MY TOOL BOX
 
