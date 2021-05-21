@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src="images/cover.png" height="300px" width="100%">
+
 ### MY TOOL BOX
 
 #### Programming Languages
