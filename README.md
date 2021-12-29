@@ -5,7 +5,7 @@
 ### MY TOOL BOX
 
 #### Programming Languages
-<img src="images/py1.png" height="30px" >  |   <img src="images/c++.png" height="30px" >    |  <img src="images/java.png" height="30px" >
+<img src="images/py1.png" height="30px" >  |   <img src="images/c++.png" height="30px" >    
 
 #### Tools & Frameworks
 <img src="images/flask2.jpg" height="30px" > | <img src="images/django-logo.png" height="30px" > |  <img src="images/bs.png" height="30px" >  | 
