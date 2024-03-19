@@ -1,5 +1,5 @@
 # Hi there 👋
-[embed]docs/skhapijulhossen_CV__.pdf[/embed]
+<img src="skhapijulhossen_CV.png">
 
 
 ## MY TOOL BOX
